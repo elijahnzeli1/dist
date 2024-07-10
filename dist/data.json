@@ -1,0 +1,250 @@
+{
+  "faqs": [
+    {
+      "question": "What is the check-in and check-out time?",
+      "answer": "Check-in is from 3:00 PM, and check-out is until 12:00 PM."
+    },
+    {
+      "question": "Do you offer free Wi-Fi?",
+      "answer": "Yes, we offer complimentary high-speed Wi-Fi in all rooms and public areas."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "Cancellations must be made 24 hours before the check-in date to avoid a one-night charge."
+    },
+    {
+      "question": "Do you have parking facilities?",
+      "answer": "Yes, we offer free parking for all our guests."
+    },
+    {
+      "question": "Are pets allowed?",
+      "answer": "Yes, we are a pet-friendly hotel. Additional charges may apply."
+    },
+    {
+      "question": "What are the check-in and check-out times?",
+      "answer": "Check-in is from 2:00 PM and check-out is until 11:00 AM."
+    },
+    {
+      "question": "Is breakfast included in the room rate?",
+      "answer": "Yes, a complimentary breakfast is included in the room rate."
+    },
+    {
+      "question": "Do you offer airport shuttle service?",
+      "answer": "Yes, we offer a complimentary airport shuttle service for our guests."
+    },
+    {
+      "question": "Can I cancel my reservation?",
+      "answer": "Yes, you can cancel your reservation up to 48 hours before your check-in date without any charge."
+    },
+    {
+      "question": "Do you have a fitness center?",
+      "answer": "Yes, our fitness center is open 24/7 and is available for all guests."
+    }
+  ],
+  "rooms": [
+    {
+      "type": "Single Room",
+      "description": "Cozy room with a single bed, suitable for solo travelers. Includes an ensuite bathroom and a work desk.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air Conditioning",
+        "Flat-screen TV",
+        "Work Desk"
+      ],
+      "price_per_night": 75
+    },
+    {
+      "type": "Double Room",
+      "description": "Comfortable room with a double bed, perfect for couples. Features an ensuite bathroom and a scenic view.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air Conditioning",
+        "Flat-screen TV",
+        "Mini Bar",
+        "Coffee Maker"
+      ],
+      "price_per_night": 120
+    },
+    {
+      "type": "Family Suite",
+      "description": "Spacious suite with two bedrooms, living area, and a balcony. Ideal for families or groups.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air Conditioning",
+        "Flat-screen TV",
+        "Mini Bar",
+        "Coffee Maker",
+        "Room Service",
+        "Balcony"
+      ],
+      "price_per_night": 200
+    },
+    {
+      "type": "Standard Room",
+      "description": "A comfortable room with a queen-sized bed, ensuite bathroom, and city view.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air Conditioning",
+        "Flat-screen TV",
+        "Mini Bar"
+      ],
+      "price_per_night": 100
+    },
+    {
+      "type": "Deluxe Room",
+      "description": "Spacious room with a king-sized bed, ensuite bathroom, and a private balcony with ocean view.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air Conditioning",
+        "Flat-screen TV",
+        "Mini Bar",
+        "Coffee Maker",
+        "Room Service"
+      ],
+      "price_per_night": 150
+    },
+    {
+      "type": "Suite",
+      "description": "Luxurious suite with a separate living area, king-sized bed, ensuite bathroom, and a private balcony with ocean view.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air Conditioning",
+        "Flat-screen TV",
+        "Mini Bar",
+        "Coffee Maker",
+        "Room Service",
+        "Kitchenette",
+        "Jacuzzi"
+      ],
+      "price_per_night": 250
+    }
+  ],
+  "amenities": [
+    {
+      "name": "Swimming Pool",
+      "description": "Heated outdoor pool with sun loungers and a poolside bar. Open from 7:00 AM to 10:00 PM."
+    },
+    {
+      "name": "Restaurant",
+      "description": "Gourmet restaurant serving international cuisine. Open for breakfast, lunch, and dinner."
+    },
+    {
+      "name": "Spa",
+      "description": "Full-service spa offering massages, facials, and other treatments. Open from 9:00 AM to 8:00 PM."
+    },
+    {
+      "name": "Business Center",
+      "description": "24/7 business center with meeting rooms, printers, and high-speed internet."
+    },
+    {
+      "name": "Kids' Club",
+      "description": "Supervised play area for children with various activities and games. Open from 9:00 AM to 6:00 PM."
+    },
+    {
+      "name": "Swimming Pool",
+      "description": "Outdoor pool with a stunning view of the city, open from 6:00 AM to 10:00 PM."
+    },
+    {
+      "name": "Gym",
+      "description": "Fully equipped gym open 24/7 for all guests."
+    },
+    {
+      "name": "Spa",
+      "description": "Relax and rejuvenate with our range of spa treatments. Open from 9:00 AM to 9:00 PM."
+    },
+    {
+      "name": "Restaurant",
+      "description": "On-site restaurant serving a variety of international cuisines. Open from 7:00 AM to 11:00 PM."
+    },
+    {
+      "name": "Bar",
+      "description": "Cozy bar offering a wide selection of drinks and snacks. Open from 5:00 PM to 1:00 AM."
+    }
+  ],
+  "policies": [
+    {
+      "type": "Cancellation",
+      "description": "You can cancel your reservation up to 48 hours before your check-in date without any charge."
+    },
+    {
+      "type": "Check-in/Check-out",
+      "description": "Check-in is from 2:00 PM, and check-out is until 11:00 AM."
+    },
+    {
+      "type": "Pet",
+      "description": "Pets are allowed in designated rooms. An additional charge of $30 per pet per night applies."
+    },
+    {
+      "type": "Smoking",
+      "description": "Our hotel is smoke-free. Smoking is not permitted in any rooms or public areas."
+    },
+    {
+      "type": "Payment",
+      "description": "We accept Visa, MasterCard, American Express, and Discover. Cash payments are also accepted."
+    },
+    {
+      "type": "Cancellation",
+      "description": "Cancellations must be made 24 hours before the check-in date to avoid a one-night charge."
+    },
+    {
+      "type": "Check-in/Check-out",
+      "description": "Check-in is from 3:00 PM, and check-out is until 12:00 PM."
+    },
+    {
+      "type": "Pet",
+      "description": "Pets are allowed. An additional charge of $20 per pet per night applies."
+    },
+    {
+      "type": "Payment",
+      "description": "We accept Visa, MasterCard, American Express, and cash payments."
+    }
+  ],
+  "local_attractions": [
+    {
+      "name": "City Park",
+      "description": "A large public park with walking trails, a playground, and a pond. Perfect for a relaxing afternoon.",
+      "distance": "1 mile"
+    },
+    {
+      "name": "Museum of Art",
+      "description": "Explore a wide collection of contemporary and classic art pieces. Open from 10:00 AM to 5:00 PM.",
+      "distance": "2 miles"
+    },
+    {
+      "name": "Shopping District",
+      "description": "A bustling area with various shops, boutiques, and cafes. Ideal for shopping and dining.",
+      "distance": "0.5 miles"
+    },
+    {
+      "name": "Historic Downtown",
+      "description": "Experience the historic charm of the city with its old buildings, landmarks, and guided tours.",
+      "distance": "1.5 miles"
+    },
+    {
+      "name": "Beach",
+      "description": "A beautiful sandy beach perfect for sunbathing, swimming, and water sports. Just a 15-minute drive away.",
+      "distance": "5 miles"
+    },
+    {
+      "name": "City Museum",
+      "description": "Explore the rich history and culture of our city. Open from 10:00 AM to 6:00 PM.",
+      "distance": "2 miles"
+    },
+    {
+      "name": "Central Park",
+      "description": "A beautiful park in the heart of the city, perfect for a relaxing walk or picnic.",
+      "distance": "1 mile"
+    },
+    {
+      "name": "Beachfront",
+      "description": "Enjoy the sun and sand at our nearby beach. Just a 10-minute drive from the hotel.",
+      "distance": "3 miles"
+    },
+    {
+      "name": "Shopping Mall",
+      "description": "Shop till you drop at the city's largest shopping mall, featuring a wide variety of stores and restaurants.",
+      "distance": "0.5 miles"
+    }
+  ]
+
+}
